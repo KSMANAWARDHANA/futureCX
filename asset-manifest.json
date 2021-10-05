@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/futureCX/static/css/main.3017e2b4.chunk.css",
+    "main.js": "/futureCX/static/js/main.17654458.chunk.js",
+    "main.js.map": "/futureCX/static/js/main.17654458.chunk.js.map",
+    "runtime-main.js": "/futureCX/static/js/runtime-main.659b81be.js",
+    "runtime-main.js.map": "/futureCX/static/js/runtime-main.659b81be.js.map",
+    "static/js/2.b037778e.chunk.js": "/futureCX/static/js/2.b037778e.chunk.js",
+    "static/js/2.b037778e.chunk.js.map": "/futureCX/static/js/2.b037778e.chunk.js.map",
+    "static/js/3.0843c432.chunk.js": "/futureCX/static/js/3.0843c432.chunk.js",
+    "static/js/3.0843c432.chunk.js.map": "/futureCX/static/js/3.0843c432.chunk.js.map",
+    "index.html": "/futureCX/index.html",
+    "static/css/main.3017e2b4.chunk.css.map": "/futureCX/static/css/main.3017e2b4.chunk.css.map",
+    "static/js/2.b037778e.chunk.js.LICENSE.txt": "/futureCX/static/js/2.b037778e.chunk.js.LICENSE.txt",
+    "static/media/cx.189f2fe8.png": "/futureCX/static/media/cx.189f2fe8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.659b81be.js",
+    "static/js/2.b037778e.chunk.js",
+    "static/css/main.3017e2b4.chunk.css",
+    "static/js/main.17654458.chunk.js"
+  ]
+}
